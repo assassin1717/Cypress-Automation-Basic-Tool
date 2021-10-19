@@ -1,0 +1,6 @@
+{
+    "chromeWebSecurity": false,
+    "testFiles": [
+        "3-created-examples/*.js"
+    ]
+}

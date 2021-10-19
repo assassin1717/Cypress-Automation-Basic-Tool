@@ -1,0 +1,16 @@
+{
+  "name": "cypresstutorial",
+  "version": "1.0.0",
+  "description": "cypress tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy-open" : "npx cypress open",
+    "cy-run" : "npx cypress run --browser chrome"
+  },
+  "author": "assassin1717",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.6.0"
+  }
+}
