@@ -1,2 +1,2 @@
-# cupressTest
+# cypressTest
 cypress practice project
